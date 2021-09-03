@@ -1,8 +1,7 @@
-### ...
-
 ![](https://hit.yhype.me/github/profile?user_id=4990252)
+![](https://komarev.com/ghpvc/?username=mconcas)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mconcas)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=mconcas&&show_icons=true&theme=tokyonight)
 <!--
 **mconcas/mconcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
